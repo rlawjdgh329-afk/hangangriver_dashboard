@@ -1,4 +1,4 @@
-﻿# 정의 hangangriver_dashboard
+﻿# 정호의 hangangriver_dashboard
 🌉 한강공원 이용객 분석 대시보드
 
 서울시 한강공원 월별 이용객 데이터를 활용하여 연도·월·계절·공원별 이용 패턴과 주요 시설 이용 현황을 분석한 Streamlit 대시보드입니다.
